@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+}
+
+.rightside{
+    display: flex;
+    float: right;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+#button {
+    background: transparent;
+    border: none; 
+    cursor: pointer; 
+}
+
+#search {
+    background-color:transparent;
+    border: solid black 1px;
+    height: 20px;
+    width: 500px;
+    margin-left: 10px;
+}
